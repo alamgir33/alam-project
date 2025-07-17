@@ -3,3 +3,5 @@
 https://live.sanonda.tv/sanonda/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png" group-title="Indian Bangla",ZEE Bangla HD
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kg75xy0K/4gvIIUu.jpg" group-title="Indian Bangla",Star Jalsha HD
+http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/tracks-v1a1/mono.m3u8
