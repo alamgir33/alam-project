@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/02zYKq57/Sananda-TV-logo-2011.png" group-title="Indian Bangla",Sananda TV
 https://live.sanonda.tv/sanonda/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8JFdDP7/Zee-Bangla-HD.png" group-title="Indian Bangla",ZEE Bangla HD
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/tracks-v1a1/mono.m3u8
