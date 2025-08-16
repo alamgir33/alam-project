@@ -136,6 +136,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/News24/tracks-v1a1/mono.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/Boishakhi/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/pdWQmcw2/Channel9.jpg" group-title="BANGLA",Channel 9
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/9QyXD8yp/p0I5dr0.png" group-title="BANGLA",Channel I
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/tracks-v1a1/mono.m3u8
@@ -145,6 +146,9 @@ https://iptvbd.live/metv1080/1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8c9Y58zZ/1200px-Ekattor-TV-logo-svg.png" group-title="BANGLA",Ekattor TV
 http://tv.dugdugilive.com:8080/0ne$ky23/Ekattor/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8c9Y58zZ/1200px-Ekattor-TV-logo-svg.png" group-title="BANGLA",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1 tvg-logo="https://freeiptv25.netlify.app/images/maasranga.jpg" group-title="BANGLA",MAASRANGA-TV
 http://tv.dugdugilive.com:8080/0ne$ky23/Massranga/tracks-v1a1/mono.m3u8
