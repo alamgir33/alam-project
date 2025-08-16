@@ -164,6 +164,7 @@ https://yuppftalive.akamaized.net/080823/kappatv/chunks.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
 
 #EXTINF:-1 tvg-logo="https://freeiptv25.netlify.app/images/maasranga.jpg" group-title="BANGLA",Maasranga HD
+http://tv.dugdugilive.com:8080/0ne$ky23/Massranga/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ65gQ9UxD2Q0zufTo9_R6onjK0_J_jQzx3w&usqp=CAU" group-title="BANGLA",RTV FHD
 http://tv.dugdugilive.com:8080/0ne$ky23/RTV/tracks-v1a1/mono.m3u8
@@ -202,6 +203,7 @@ http://103.122.74.6:8888/hls/NICK.m3u8
 http://103.122.74.6:8888/hls/CARTON.NETWORK.HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tataplay.com/s3-api/v1/assets/channels/sonic-nickelodeon.gif" group-title="FreeDishBhai",Sonic Hindi
+http://tv.dugdugilive.com:8080/0ne$ky23/NickBN/tracks-a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W6XhVj9/IMG-20240126-085219.jpg" group-title="JAGOBD  CHANNELS",Biswa Bangla 24
 
@@ -244,6 +246,7 @@ http://103.122.74.6:8888/hls/ANIMAL.PLANET.HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/k4Wthh5n/Animal-Planet-HD.jpg" group-title="Documentary",Animal Planet HD
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2SFqZdPm/PIX-HD-WHITE.png" group-title="English",Sony Pix HD
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyPix/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg" group-title="English",Star Movies HD
 http://103.122.74.6:8888/hls/STAR.MOVIES.HD.m3u8
@@ -262,13 +265,16 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/KzmBgP5J/Bollywood-Prime-thumbnail.png" group-title="Indian",Bollywood Prime
 
 #EXTINF:-1 tvg-logo="https://freeiptv25.netlify.app/images/colors_cineplexhd.jpg" group-title="Indian",Colors Cineplex HD
+http://tv.dugdugilive.com:8080/0ne$ky23/CinePlex/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yd9WqNjW/SET-LOGO-HD.png" group-title="Indian",Sony TV HD
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QtPV3fWg/Sony-MAX-HD-WHITE.png" group-title="Indian",Sony Max HD
-http://103.122.74.6:8888/hls/SONY.MAX.HD.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBfZ4G2BNukWrerCJwyzLLkrDk_QvrpXyRJw1cIeEdLA&s" group-title="Indian",Zee Bollywood
+http://tv.dugdugilive.com:8080/0ne$ky23/ZBolloyWoord/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://freeiptv25.netlify.app/images/zee_tv.jpg" group-title="Indian",Zee TV HD
 http://103.122.74.6:8888/hls/ZEE.TV.HD.m3u8
@@ -283,6 +289,7 @@ http://103.122.74.6:8888/hls/STAR.GOLD.HD.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png" group-title="Indian",Colors HD
+http://tv.dugdugilive.com:8080/0ne$ky23/Colors/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/yd9WqNjW/SET-LOGO-HD.png" group-title="Indian",Sony TV HD 2
 
@@ -319,7 +326,7 @@ http://tv.dugdugilive.com:8080/0ne$ky23/StarSports22/tracks-v1a1/mono.m3u8
 http://103.122.74.6:8888/hls/STAR.SPORTS.SEL.2.HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXvW8yQN/SONY-Sports-Ten5-HD-Logo-CLR.png" group-title="Sports",Sony Ten 5 HD
-http://103.122.74.6:8888/hls/SONY-SPORTS.5HD.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/sonysix/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/wvwFBbFW/SONY-Sports-Ten1-HD.png" group-title="Sports",Sony Ten 1 HD
 http://tv.dugdugilive.com:8080/0ne$ky23/sonyten1/tracks-v1a1/mono.m3u8
@@ -347,8 +354,6 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Nagorik/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yjh6pyC/IMG-20240418-130220.jpg" group-title="BDIX  CHANNELS",UTV Movies HD 2
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y0KXWYDF/5PsRkPd.png" group-title="BANGLA",ATN Bangla
-http://10.99.99.99:8082/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=620844f7d3ce0f21a196849dab0b73c5c19c393d-f61d2d67314dd5294fb22c11374436c6-1752822744-1752811944
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
@@ -356,10 +361,13 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/ekusheytv.jpg?x71442" group-title="BANGLADESH",Ekhusjey TV 📺
 https://ekusheyserver.com/etvlivesn.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIpqw-fmp3P5KN6qg19ANXq61GkBNWvQTalA&s" group-title="BANGLADESH",Al Jajira English 📺
 https://live-hls-web-aje-fa.getaj.net/alternative/AJE/03.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BANGLADESH",MY TV 📺 (JAGOBD)
 https://mytvbangla.com/0.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x91288" group-title="BANGLADESH",Channel 9 📺 (JAGOBD)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
 
