@@ -287,7 +287,7 @@ http://103.122.74.6:8888/hls/ZEE.TV.HD.m3u8
 http://103.122.74.6:8888/hls/STAR.PLUS.HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/wu2m42v.jpg" group-title="Indian",Star Gold HD
-http://103.122.74.6:8888/hls/STAR.GOLD.HD.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/B6Xh5bCL/picture.jpg" group-title="Indian",& Pictures HD
 http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/tracks-v1a1/mono.m3u8
