@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="<IMDb ID>" tvg-name="<IMDb ID>" tvg-type="LIVE TV" group-title="Backup Server" tvg-logo="https://i.postimg.cc/FRz46hPL/Batulthe-Great.jpg",Batul The Great
+https://cloudfrontnet.vercel.app/tplay/playout/209869/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mirazofficial" tvg-logo="https://chatgpt.com/backend-api/estuary/content?id=file_00000000902861f48dcdc62ea72e5788&ts=489058&p=fs&cid=1&sig=98ba60b6473077da7a982305bc49c725f89d9b54adca701a5120b4d4f025921c&v=0" group-title="LIVE TV", Hindi Song
 https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/news21.jpg" group-title="BD.BANG.CH ( BDIX )",NEWS 21 BANGLA
